@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-dhdfghd
-=======
-hola
->>>>>>> a52ec56d397801962690a35d7b64e75f64907ccd
+hola hola
+
